@@ -1,6 +1,6 @@
 # macOS Junk Cleaner
 
-<img width="844" alt="screenshot" src="https://github.com/user-attachments/assets/f1190619-9a2e-42eb-b0fc-e6a017c7bd1a" />
+<img width="972" alt="Picture1" src="https://github.com/user-attachments/assets/ec1171e9-80ea-4f70-91d0-58162aebb659" />
 
 This program is for my own use to clean up junk files on macOS. 
 
